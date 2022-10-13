@@ -1,6 +1,6 @@
 # ✨ Fun With DOM ![](https://img.shields.io/badge/Fun%20with-DOM-brightgreen)
 
-![](./thumbnail.png)
+![](./banner.png)
 
 ![](https://img.shields.io/badge/20-PROJECTS-blue)
 

@@ -1,6 +1,6 @@
 # Dom Manipulation Assignment
 
-1. Webiste Name: [Dev To](https://dev.to/)
+1. Website Name: [Dev To](https://dev.to/)
 
 ### Topics
 
@@ -8,7 +8,7 @@
 
 ### Sample Image
 
-![Sample One](./Pic1.png)
+![Sample One](./assets/Pic1.png)
 
 ### Tasks
 
@@ -21,13 +21,13 @@ document.querySelector('.side-bar .crayons-card .color-base-70').innerHTML = 'I 
 
 ### Output
 
-![Output](./Pic2.png)
+![Output](./assets/Pic2.png)
 
 2. Website Name: [Apple](https://support.apple.com/en-in)
 
 ### Task
 
-![Store](./Picture_3.png)
+![Store](./assets/Picture_3.png)
 
 ### Fetch all the product name and store in an array
 
@@ -44,7 +44,7 @@ console.log(arr);`
 
 ['iPhone', 'Mac', 'iPad', 'Watch', 'AirPods', 'Music', 'TV']
 
-3. Webiste Name: [Youtube Support](https://support.google.com/youtube/)
+3. Website Name: [Youtube Support](https://support.google.com/youtube/)
 
 ### Topics
 
@@ -52,13 +52,11 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic4.png)
+![Sample One](./assets/Pic4.png)
 
 ### Tasks
 
      Add another FAQ 'My New FAQ' to the list
-
-### Output
 
 ### 🟡 Code
 
@@ -86,7 +84,9 @@ console.log(arr);`
 
 `document.querySelector('.accordion-homepage').appendChild(section);`
 
-![Output](./Pic5.png)
+### Output
+
+![Output](./assets/Pic5.png)
 
 4. Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
@@ -96,7 +96,7 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic6.png)
+![Sample One](./assets/Pic6.png)
 
 ### Tasks
 
@@ -108,7 +108,7 @@ console.log(arr);`
 
 ### Output
 
-![Output](./Pic7.png)
+![Output](./assets/Pic7.png)
 
 5. Webiste Name: [Samsung](https://www.samsung.com/in/offer/online/samsung-fest/)
 
@@ -118,7 +118,7 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic8.png)
+![Sample One](./assets/Pic8.png)
 
 ### Tasks
 
@@ -130,7 +130,7 @@ console.log(arr);`
 
 ### Output
 
-![Output](./Pic9.png)
+![Output](./assets/Pic9.png)
 
 6. Webiste Name: [Adidas](https://www.adidas.co.in/)
 
@@ -140,7 +140,7 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic10.png)
+![Sample One](./assets/Pic10.png)
 
 ### Tasks
 
@@ -152,7 +152,7 @@ console.log(arr);`
 
 ### Output
 
-![Output](./Pic11.png)
+![Output](./assets/Pic11.png)
 
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
@@ -162,7 +162,7 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic12.png)
+![Sample One](./assets/Pic12.png)
 
 ### Tasks
 
@@ -176,7 +176,7 @@ console.log(arr);`
 
 ### Output
 
-![Output](./Pic13.png)
+![Output](./assets/Pic13.png)
 
 8. Website Name: [Google](https://www.google.com/)
 
@@ -186,7 +186,7 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic14.png)
+![Sample One](./assets/Pic14.png)
 
 ### Tasks
 
@@ -209,7 +209,7 @@ console.log(arr);`
 
 ### Output
 
-![Output](./Pic15.png)
+![Output](./assets/Pic15.png)
 
 9. Website Name: [Code Wars](https://www.codewars.com/)
 
@@ -219,7 +219,7 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic16.png)
+![Sample One](./assets/Pic16.png)
 
 ### Tasks
 
@@ -232,7 +232,7 @@ console.log(arr);`
 
 ### Output
 
-![Output](./Pic17.png)
+![Output](./assets/Pic17.png)
 
 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
 
@@ -242,7 +242,7 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic18.png)
+![Sample One](./assets/Pic18.png)
 
 ### Tasks
 
@@ -257,7 +257,7 @@ console.log(arr);`
 
 ### Output
 
-![Output](./Pic19.png)
+![Output](./assets/Pic19.png)
 
 11. Website Name: [realme](https://www.realme.com/in/)
 
@@ -267,7 +267,7 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic20.png)
+![Sample One](./assets/Pic20.png)
 
 ### Tasks
 
@@ -279,7 +279,7 @@ console.log(arr);`
 
 ### Output
 
-![Output](./Pic21.png)
+![Output](./assets/Pic21.png)
 
 12. Webiste Name: [Github](https://github.com/)
 
@@ -289,7 +289,7 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic22.png)
+![Sample One](./assets/Pic22.png)
 
 ### Tasks
 
@@ -301,7 +301,7 @@ console.log(arr);`
 
 ### Output
 
-![Output](./Pic23.png)
+![Output](./assets/Pic23.png)
 
 13. Webiste Name: [Hackerrank](https://www.hackerrank.com/)
 
@@ -311,7 +311,7 @@ console.log(arr);`
 
 ### Sample Image
 
-![Sample One](./Pic24.png)
+![Sample One](./assets/Pic24.png)
 
 ### Tasks
 
@@ -323,7 +323,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic25.png)
+![Output](./assets/Pic25.png)
 
 14. Webiste Name: [Asus](https://www.asus.com/in/)
 
@@ -333,7 +333,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Sample Image
 
-![Sample One](./Pic26.png)
+![Sample One](./assets/Pic26.png)
 
 ### Tasks
 
@@ -345,7 +345,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic27.png)
+![Output](./assets/Pic27.png)
 
 15. Webiste Name: [Dell](https://www.dell.com/en-in/shop/deals/laptop-deals?gacd=10415953-9016-5761040-285981356-0&dgc=ST&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-XUDMhhVNyHXb3s1gY4ZBzORr_d9Se-buhJwy7asyUe7YdqEA11eEaAt6UEALw_wcB&gclsrc=aw.ds&nclid=BxjBlpBQsX6pjSHh-L8YYSU77EpfXRkG1AGMB5Wbeu386ykspfrPDnfx_DdFau20)
 
@@ -355,7 +355,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Sample Image
 
-![Sample One](./Pic28.png)
+![Sample One](./assets/Pic28.png)
 
 ### Tasks
 
@@ -369,7 +369,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic29.png)
+![Output](./assets/Pic29.png)
 
 16. Webiste Name: [Vercel](https://vercel.com/)
 
@@ -379,7 +379,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Sample Image
 
-![Sample One](./Pic30.png)
+![Sample One](./assets/Pic30.png)
 
 ### Tasks
 
@@ -391,7 +391,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic31.png)
+![Output](./assets/Pic31.png)
 
 17. Webiste Name: [Sony](https://www.sony.co.in/)
 
@@ -401,7 +401,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Sample Image
 
-![Sample One](./Pic33.png)
+![Sample One](./assets/Pic33.png)
 
 ### Tasks
 
@@ -414,7 +414,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic32.png)
+![Output](./assets/Pic32.png)
 
 18. Webiste Name: [Philips](https://www.philips.co.in/)
 
@@ -424,7 +424,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Sample Image
 
-![Sample One](./Pic34.png)
+![Sample One](./assets/Pic34.png)
 
 ### Tasks
 
@@ -436,7 +436,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic35.png)
+![Output](./assets/Pic35.png)
 
 19. Webiste Name: [Canon](https://in.canon/)
 
@@ -446,7 +446,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Sample Image
 
-![Sample One](./Pic36.png)
+![Sample One](./assets/Pic36.png)
 
 ### Tasks
 
@@ -456,7 +456,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic37.png)
+![Output](./assets/Pic37.png)
 
 20. Webiste Name: [Oppo](https://www.oppo.com/in/)
 
@@ -466,7 +466,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Sample Image
 
-![Sample One](./Pic38.png)
+![Sample One](./assets/Pic38.png)
 
 ### Tasks
 
@@ -478,4 +478,4 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic39.png)
+![Output](./assets/Pic39.png)
