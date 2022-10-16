@@ -454,11 +454,14 @@ Target the top description and change “Matching developers with great companie
 
 ### 🟡 Code
 
+`const link = document.querySelector('.navbar-brand img').src`
+`link`
+
 ### Output
 
 ![Output](./assets/Pic37.png)
 
-20. Webiste Name: [Oppo](https://www.oppo.com/in/)
+20. Website Name: [Oppo](https://www.oppo.com/in/)
 
 ### Topics
 
